@@ -58,10 +58,6 @@
     <li><a href="https://glitch.com/" style="color: #FFDC00;">glitch.com</a></li>
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
   </ul>
-  <p align="center">
-  <a href="https://t.me/+PWHdkfykma1lMTE1">
-    <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
-  </a>
 </p>
   <li>Keep in mind that these sites can suspend your projects, so it's better to host on your own computer.</li>
   
