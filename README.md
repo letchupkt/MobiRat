@@ -35,7 +35,7 @@
 - ✅️ auto start after device boot
 - 🔐 Keylogger
 - ✨ Beautiful telegram bot interface
-  ## DOGE RAT PAID VERSION FEATURES
+  ## Mobi RAT PAID VERSION FEATURES
 - 🤖 Auto permisson  
 - 🔐Encrypt/ Decrypt after encryption victims will be not able to use their devices
 - 🖥️ Screenshot (get screenshot from your victim device)
@@ -161,7 +161,7 @@
 </p>
 
 <p align="center">
-  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. Dogerat is built for educational and internal use only.
+  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. erat is built for educational and internal use only.
 </p>
 
 <p align="center">
@@ -173,7 +173,7 @@
 </p>
 
 <p align="center">
-  <b><i>Thank you for using Dogerat - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
+  <b><i>Thank you for using Mobirat - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
 </p>
 
 
@@ -197,12 +197,12 @@
 <p align="center">Thank you to the following people for their support:</p>
 
 <div align="center">
-  <a href="https://github.com/shivaya-dav/DogeRat/stargazers">
-    <img src="https://reporoster.com/stars/dark/shivaya-dav/DogeRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
+  <a href="https://github.com/shivaya-dav/MobiRat/stargazers">
+    <img src="https://reporoster.com/stars/dark/shivaya-dav/MobiRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
   </a>
   
   -------------------------
-  <a href="https://github.com/shivaya-dav/DogeRat/network/members">
-    <img src="https://reporoster.com/forks/dark/shivaya-dav/DogeRat" alt="Forkers" title="Forkers" width="400" height="auto">
+  <a href="https://github.com/shivaya-dav/MobiRat/network/members">
+    <img src="https://reporoster.com/forks/dark/shivaya-dav/MobiRat" alt="Forkers" title="Forkers" width="400" height="auto">
   </a>
 </div>
