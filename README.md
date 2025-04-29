@@ -35,25 +35,7 @@
 - ✅️ auto start after device boot
 - 🔐 Keylogger
 - ✨ Beautiful telegram bot interface
-  ## Mobi RAT PAID VERSION FEATURES
-- 🤖 Auto permisson  
-- 🔐Encrypt/ Decrypt after encryption victims will be not able to use their devices
-- 🖥️ Screenshot (get screenshot from your victim device)
-- 🗨️ spam message in all contacts after installation which you will set in apk
-- 🔐injection {inject appliactaion automatic with any login or any page unlimited }
-- 🔐 Open any phising page in victim device
-- 🖥️ Screenshot (get screenshot from your victim device)
-- 📒 Gallery puller (Get all photos available in gallery)
-- 🔔 notification reader
-- 🔔 notification sender (send custom notification that apper on target device with custom click link)
-- 🗨️ show toast message on target device (Toasts are messages that appear in a box at the bottom of the device)
-- 🔤 Advance Keylogger
-- 📁 receive any file or folder from target device
-- 📁 delete any file or folder from target device
-- 📁 PowerFull file manager
-- ✨ Beautiful telegram bot interface
-- 🤖 Undetectable by antivirus
-- 🤖and more ......
+ 
   <p align="center">
   <a href="https://t.me/+PWHdkfykma1lMTE1">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
