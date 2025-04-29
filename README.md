@@ -118,26 +118,6 @@
 ```
 
 
-
-
-<h2 align="center">🔗 Contact and Social Media Accounts</h2>
-
-<p align="center">
-  <a href="https://t.me/+PWHdkfykma1lMTE1">
-    <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href=https://t.me/+PWHdkfykma1lMTE1>
-    <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
-  </a>
-  <a href="https://t.me/+PWHdkfykma1lMTE1>
-    <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
-  </a>
-  <a href=https://t.me/+PWHdkfykma1lMTE1>
-    <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
-  </a>
-</p>
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Disclaimer-Important-red" alt="Important Disclaimer"/>
 </p>
@@ -151,40 +131,8 @@
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://t.me.com/CyberShieldX"><code>@CYBERSHIELDX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@CYBERSHIELDX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
-</p>
-
-<p align="center">
   <b><i>Thank you for using Mobirat - we hope it serves its intended purpose and helps you achieve your goals!</i></b>
 </p>
 
 
 
-
-
-<p align="center">
-<h1 align="center">Sponsorship</h1>
-
-<p align="center">If you find my work valuable, you can show your support by sponsoring me. 
-  Your contribution will help me maintain and improve my projects, and it will encourage me to create more useful content.</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shivayadav"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy me a coffee"></a>
-</p>
-
-
-
-
-
-<p align="center">Thank you to the following people for their support:</p>
-
-<div align="center">
-  <a href="https://github.com/shivaya-dav/MobiRat/stargazers">
-    <img src="https://reporoster.com/stars/dark/shivaya-dav/MobiRat" alt="Stargazers" title="Stargazers" width="400" height="auto">
-  </a>
-  
-  -------------------------
-  <a href="https://github.com/shivaya-dav/MobiRat/network/members">
-    <img src="https://reporoster.com/forks/dark/shivaya-dav/MobiRat" alt="Forkers" title="Forkers" width="400" height="auto">
-  </a>
-</div>
